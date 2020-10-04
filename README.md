@@ -1,6 +1,6 @@
 ## Hey there kind stranger! 👋
 
-#### My name is Joao Felicio
+#### My name is João Felício
 
 - :heartpulse:        Programming addicted and open source lover!
 - :office:            Software engineer at KPMG.
