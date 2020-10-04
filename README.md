@@ -3,7 +3,7 @@
 #### My name is João Felício
 
 - :heartpulse:        Programming addicted and open source lover!
-- :office:            Software engineer at KPMG.
+- :office:            Software Engineer at KPMG.
 - :fire:              C# .NET / React
 - :mailbox_with_mail: Happy to colaborate in any repo, drop me a message!
 
