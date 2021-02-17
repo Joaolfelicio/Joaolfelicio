@@ -1,6 +1,6 @@
 ## Hey there kind stranger! 👋
 
-#### My name is João Felício
+![Joao Felicio Banner](https://res.cloudinary.com/joaolfelicio/image/upload/v1613565167/banner.png)
 
 - :heartpulse:        Programming addicted and open source lover!
 - :office:            Software Engineer at KPMG.
