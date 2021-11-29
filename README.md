@@ -2,7 +2,7 @@
 
 - :heartpulse:        Programming addicted and open source lover!
 - :office:            Software Engineer at Devoteam.
-- :fire:              C# .NET / React
+- :fire:              C# .NET / Azure
 - :house:             Living in Luxembourg, born in Portugal.
 - :mailbox_with_mail: Happy to colaborate in any repo, drop me a message!
 
