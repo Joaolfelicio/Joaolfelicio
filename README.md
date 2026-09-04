@@ -2,6 +2,6 @@
 
 - :heartpulse:        Programming addicted and open source lover!
 - :office:            Manager at PwC Luxembourg.
-- :fire:              C# .NET / Microsoft Azure
+- :fire:              AI / SDD / React / C# .NET / Microsoft Azure / DevOps
 - :house:             Living in Luxembourg, born in Portugal.
 - :mailbox_with_mail: Happy to collaborate in any repo, drop me a message!
